@@ -9,7 +9,7 @@ Nas horas vagas, me dedico a desenvolver projetos de software que não só me de
 - Aprendizado Contínuo.
 
 ## Meus Projetos 🌟
-- Atualmente, estou criando um dashboard de finanças.
+- Atualmente, sou dono de um projeto que consiste em ser um dashboard de finanças, chamado FinDash.
 
 ## Entre em contato! 📫
 **Discord:** gutineobixo
